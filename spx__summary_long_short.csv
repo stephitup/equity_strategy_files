@@ -1,4 +1,4 @@
-,SPX,cont long,neu long,cont neutral,Neu neutral +,Neu neutral -,cont short,neu short
+date,spx,cont long,neu long,cont neutral,neu neutral pos,neu neutral neg,cont short,neu short
 8/5/15,2099.84,44.64,4.07,19.95,4.66,2.08,21.24,3.37
 8/6/15,2083.56,41.19,2.33,19.83,3.57,6.73,20.95,5.40
 8/7/15,2077.57,39.11,3.08,22.40,2.04,4.16,24.15,5.07
